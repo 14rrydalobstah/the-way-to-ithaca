@@ -6,11 +6,11 @@
 
 ## 下载就能玩
 
-1. 打开本仓库右侧 **Releases**，选择最新版本，下载 **Ithaca-Playtest-v0.5.2.zip**。不要只下载单个 HTML 文件。
-2. 将 ZIP **完整解压**到一个文件夹。
-3. 双击 **开始游戏.html**（或 `index.html`），用 Chrome / Edge 打开。
+1. 打开本仓库右侧 **Releases**，选择最新的单文件修复版。
+2. 下载 **Ithaca-Playtest-v0.5.2.html**，用 Chrome / Edge 打开即可；或下载 **Ithaca-Playtest-v0.5.2-offline.1.zip**，解压后双击 **开始游戏.html**。
+3. HTML 文件已包含所有脚本和样式，可以单独复制给朋友。
 
-无需联网、账号、安装程序、Node.js 或 Python。所有脚本和样式需保留在同一个文件夹。直接在 ZIP 内预览文件可能无法正常运行。
+无需联网、账号、安装程序、Node.js 或 Python。请保存 HTML 后用浏览器打开；聊天软件的附件预览可能禁用脚本。ZIP 仍建议先解压。
 
 手机体验暂未验证，推荐电脑浏览器。
 
